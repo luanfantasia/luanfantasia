@@ -3,13 +3,13 @@
 
 ![Luan Fantasia's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanfantasia&show_icons=true&theme=dracula)
 
-## Certifications
+## Certifications 🥇
 
 <div style="display: inline_block">
     <img align="center" alt="PL900" src="https://images.credly.com/size/340x340/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" style="width: 140px" />
 </div>
 
-## Skills
+## Skills 🧠
 
 ### Languages
 
@@ -86,7 +86,7 @@
     <img align="center" alt="MicrosoftSharepoint" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" />
 </div>
 
-## Contact
+## Contact 📠
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luanfantasia/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:luanfantasia2002@outlook.com)
