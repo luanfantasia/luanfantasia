@@ -5,7 +5,9 @@
 
 ## Certifications
 
-### PL-900
+<div style="display: inline_block">
+    <img align="center" alt="PL900" src="https://images.credly.com/size/340x340/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" style="width: 140px" />
+</div>
 
 ## Skills
 
