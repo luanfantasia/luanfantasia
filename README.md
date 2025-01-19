@@ -11,7 +11,7 @@
   
 #
 
-<img align="right" alt="cat gif" height="210px" src="./src/main.gif">
+<img align="right" alt="cat gif" height="200px" src="./src/main.gif">
 
 <h3 style="color: #a07bb6" align="left">Connect with me! 📠</h3>
 
