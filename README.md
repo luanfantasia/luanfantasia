@@ -11,7 +11,7 @@
   
 #
 
-<img align="right" alt="silent hill gif" height="200px" src="https://media1.tenor.com/m/kTQuhUxYs3cAAAAC/studio-ghibli.gif">
+<img align="right" alt="cat gif" height="220px" src="./src/main.gif">
 
 <h3 style="color: #a07bb6" align="left">Connect with me! 📠</h3>
 
