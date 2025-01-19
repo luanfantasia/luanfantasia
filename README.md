@@ -11,7 +11,7 @@
   
 #
 
-<img align="right" alt="cat gif" height="220px" src="./src/main.gif">
+<img align="right" alt="cat gif" height="210px" src="./src/main.gif">
 
 <h3 style="color: #a07bb6" align="left">Connect with me! 📠</h3>
 
@@ -28,15 +28,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="padding-right: 2px;" height="28" alt="typescript logo" title="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="padding-right: 2px;" height="28" alt="csharp logo" title="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="padding-right: 2px;" height="28" alt="nodejs logo" title="NodeJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" style="padding-right: 2px;" height="28" alt="dotnet logo" title=".NET" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" style="padding-right: 2px;" height="28" alt="npm logo" title="NPM" /><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" style="padding-right: 2px;" height="28" alt="gulp logo" title="Gulp" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" style="padding-right: 2px;" height="28" alt="mariadb logo" title="MariaDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="padding-right: 2px;" height="28" alt="mysql logo" title="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" style="padding-right: 2px;" height="28" alt="azure logo" title="Azure" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="padding-right: 2px;" height="28" alt="vscode logo" title="VSCode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" style="padding-right: 2px;" height="28" alt="windows logo" title="Windows" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" style="padding-right: 2px;" height="28" alt="powershell logo" title="PowerShell" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style="padding-right: 2px;" height="28" alt="figma logo" title="Figma" />
 </div>
 
