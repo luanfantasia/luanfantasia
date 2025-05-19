@@ -1,8 +1,5 @@
-
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=40&duration=4000&pause=1000&color=A07BB6&center=true&vCenter=true&width=600&height=100&lines=!%2B+Hello%2C+I'm+Luan+Fantasia👾+**" alt="Typing SVG">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=40&duration=4000&pause=1000&color=A07BB6&center=true&vCenter=true&width=600&height=100&lines=!%2B+Hello%2C+I'm+Luan+Fantasia👾+**" alt="!+ Hello, I'm Luan Fantasia👾 **">
 </div>
 
 #
@@ -17,7 +14,6 @@
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:luanfantasia2002@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/luanfantasia/)
-
 
 <h3 style="color: #a07bb6" align="left">My Stack 🧠</h3>
 
