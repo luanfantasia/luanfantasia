@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=40&duration=4000&pause=1000&color=A07BB6&center=true&vCenter=true&width=600&height=100&lines=!%2B+Hello%2C+I'm+Luan+Fantasia👾+**" alt="!+ Hello, I'm Luan Fantasia👾 **">
+  <img src="https://readme-typing-svg.demolab.com/?font=Jacquard+12&size=40&duration=4000&pause=1000&color=A07BB6&center=true&vCenter=true&width=600&height=100&lines=!%2B+Hello%2C+I%27m+Luan+Fantasia%F0%9F%91%BE+**" alt="!+ Hello, I'm Luan Fantasia👾 **">
 </div>
 
 #
@@ -22,10 +22,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="padding-right: 2px;" height="28" alt="css3 logo" title="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right: 2px;" height="28" alt="javascript logo" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="padding-right: 2px;" height="28" alt="typescript logo" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="padding-right: 2px;" height="28" alt="csharp logo" title="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="padding-right: 2px;" height="28" alt="nodejs logo" title="NodeJS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="padding-right: 2px;" height="28" alt="mysql logo" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" style="padding-right: 2px;" height="28" alt="azure logo" title="Azure" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="padding-right: 2px;" height="28" alt="vscode logo" title="VSCode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style="padding-right: 2px;" height="28" alt="figma logo" title="Figma" />
 </div>
@@ -35,10 +33,8 @@
 <div style="text-align: center;" align="center">
   <h3 style="color: #a07bb6">!* GitHub Stats +</h3>
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luanfantasia&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=24&hide=issues&bg_color=000&title_color=a07bb6&text_color=FFF&border_radius=4&border_color=a07bb6&icon_color=a07bb6&theme=dracula" alt="GitHub stats">
-  <a href="https://github.com/luanfantasia/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luanfantasia&line_height=10&card_width=280&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=a07bb6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=4&border_color=a07bb6&count_private=true" alt="Most Used Languages">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=luanfantasia&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&hide=issues&bg_color=000&title_color=a07bb6&text_color=FFF&border_radius=4&border_color=a07bb6&icon_color=a07bb6&theme=dracula" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanfantasia&line_height=10&card_width=280&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=a07bb6&bg_color=000&text_color=8B8B8B&border_radius=4&border_color=a07bb6&count_private=true" alt="Most Used Languages">
 </div>
 
 #
